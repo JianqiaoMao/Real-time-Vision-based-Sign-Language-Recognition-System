@@ -9,7 +9,9 @@ My undergraduate Final Year Project awarded as the Excellent Bachelor's Project.
 ## Classifier implemented by:
 
   Pre-classifier: LSTM
+  
   Static gesture classifier: KNN
+  
   Dynamic gesture classifier: 2 HMMs
 
 ## Files introduction:
