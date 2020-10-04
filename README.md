@@ -2,7 +2,7 @@
 
 Overview:
 
-<img src=https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg width=300 />
+<img src=https://github.com/JianqiaoMao/Real-time-Vision-based-Sign-Language-Recognition-System/blob/main/doc/SYSTEM%20FRAMEWORK.png width=500 />
 
 My undergraduate Final Year Project awarded as the Excellent Bachelor's Project. It develops a vision-based sign language recognition system with multiple machine-learning models, which currently can recognize 10 static and 2 dynamic gesutures in ASL with testing accuracy of 99.68%.
 
