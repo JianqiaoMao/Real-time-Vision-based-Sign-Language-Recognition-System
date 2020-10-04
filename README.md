@@ -33,6 +33,6 @@ There are a system framework diagram and a [demo. video](https://github.com/Jian
 
 Datasets are not available for public use at this stage.
 
-## Camera:
+## Camera: GUCEE HD98
 
-GUCEE HD98. Please note that different camera type can lead to significant variance in system performance.
+Please note that different camera type can lead to significant variance in system performance.
