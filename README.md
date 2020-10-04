@@ -2,7 +2,7 @@
 
 Overview:
 
-<img src=https://github.com/JianqiaoMao/Real-time-Vision-based-Sign-Language-Recognition-System/blob/main/doc/SYSTEM%20FRAMEWORK.png width=1000 />
+<img src=https://github.com/JianqiaoMao/Real-time-Vision-based-Sign-Language-Recognition-System/blob/main/doc/SYSTEM%20FRAMEWORK.png width=800 />
 
 My undergraduate Final Year Project awarded as the Excellent Bachelor's Project. It develops a vision-based sign language recognition system with multiple machine-learning models, which currently can recognize 10 static and 2 dynamic gesutures in ASL with testing accuracy of 99.68%.
 
